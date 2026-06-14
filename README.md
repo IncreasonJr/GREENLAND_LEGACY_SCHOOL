@@ -1,6 +1,6 @@
-# Greenland Legacy International School Website
+# Landmark Legacy International School Website
 
-A premium, high-performance, responsive single-page website for **Greenland Legacy International School** located in Kpeve, Volta Region, Ghana (Behind Power House, off Dudome Road). 
+A premium, high-performance, responsive single-page website for **Landmark Legacy International School** located in Kpeve, Volta Region, Ghana (Behind Power House, off Dudome Road). 
 
 This website is custom redesigned to reflect a modern, high-end, glassmorphic aesthetic while retaining the school's real flyers and images as the primary visual assets. The site is optimized for academic recruitment and presents a deep integration of practical agricultural education (Poultry, Pig Farming, Greenhouse Technology, and Agribusiness) alongside its standard academic programs (Creche, KG, Primary, and JHS).
 
@@ -62,7 +62,8 @@ GREENLAND_LEGACY/
 ├── index.html                  # Single-file main web application (HTML, CSS, JS)
 ├── README.md                   # Codebase documentation
 └── images/                     # Folder containing original flyers and logo assets
-    ├── logo_transparent.png    # Background-removed official school logo
+    ├── newlogo.png             # New official school logo (with solid background)
+    ├── newlogo_transparent.png # Background-removed version of the new school logo
     ├── 132307.jpg              # Original greenhouse flyer (used for greenhouse cards)
     ├── 132308.jpg              # Original admissions flyer (used for agribusiness card)
     ├── 132309.jpg              # Original poultry/pig flyer (used for farming focus cards)
